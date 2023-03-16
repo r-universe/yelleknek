@@ -1,0 +1,14 @@
+[
+  {
+    "package": "AMCP",
+    "oncran": true
+  },
+  {
+    "package": "BUCSS",
+    "oncran": true
+  },
+  {
+    "package": "MBESS",
+    "oncran": true
+  }
+]
