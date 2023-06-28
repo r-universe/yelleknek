@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AMCP"]
 	path = AMCP
 	url = https://github.com/yelleknek/amcp
-	shallow = true
-	registered = true
 [submodule "BUCSS"]
 	path = BUCSS
 	url = https://github.com/yelleknek/bucss
-	shallow = true
-	registered = true
 [submodule "MBESS"]
 	path = MBESS
 	url = https://github.com/yelleknek/mbess
-	shallow = true
-	registered = true
