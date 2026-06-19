@@ -11,3 +11,6 @@
 [submodule "MBESS"]
 	path = MBESS
 	url = https://github.com/yelleknek/mbess
+[submodule "NDPalette"]
+	path = NDPalette
+	url = https://github.com/yelleknek/ndpalette
