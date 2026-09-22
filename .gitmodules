@@ -8,6 +8,9 @@
 [submodule "BUCSS"]
 	path = BUCSS
 	url = https://github.com/yelleknek/bucss
+[submodule "DMAR"]
+	path = DMAR
+	url = https://github.com/yelleknek/dmar
 [submodule "MBESS"]
 	path = MBESS
 	url = https://github.com/yelleknek/mbess
