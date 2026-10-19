@@ -17,3 +17,6 @@
 [submodule "NDPalette"]
 	path = NDPalette
 	url = https://github.com/yelleknek/ndpalette
+[submodule "POEMED"]
+	path = POEMED
+	url = https://github.com/yelleknek/poemed
